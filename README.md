@@ -15,9 +15,9 @@
 ## 📖 About Me
 Final-year **B.Tech CSE (Gaming Technology)** student at SRM Institute. I build gameplay systems, level design prototypes, and small standalone games — focusing on responsive controls, player feel, and AI-driven interactions.
 
-- 🔭 Currently: Improving performance/optimization in UE5 projects.  
-- 🌱 Learning: Advanced rendering / optimization tricks and AI-driven level design.  
-- 📫 Email: **shreys1611@gmail.com** — open to internships & fresher roles.
+- Currently: Working on creating AI NPCs in UE5 projects.  
+- Learning: Advanced rendering / optimization tricks and AI-driven level design.  
+- Email: **shreys1611@gmail.com** — open to internships & fresher roles.
 
 ---
 
@@ -35,12 +35,12 @@ Final-year **B.Tech CSE (Gaming Technology)** student at SRM Institute. I build 
 ---
 
 ## ✨ Featured projects
-| Project | What / Status | Demo / Repo |
+| Projects | About | Repos |
 | :--- | :--- | :--- |
-| 🚀 **Climb High** | 3D vertical rage platformer — prototype (playable). | [Play / Repo](YOUR_CLIMB_HIGH_LINK) |
-| 🛰️ **Space Traveller** | Endless runner prototype focused on player feel — prototype. | [Play / Repo](YOUR_SPACE_TRAVELLER_LINK) |
-| ♟️ **Gesture-Controlled Chess** | Accessibility project using OpenCV — demo + repo. | [Demo / Repo](YOUR_CHESS_LINK) |
-| 🎲 **Dungeon Level Generator** | AI tool for procedural dungeon layouts — research / repo. | [Repo](YOUR_DUNGEON_LINK) |
+| **Climb High** | 3D vertical rage platformer. | [Link](https://github.com/Shreys1611/Climb_High) |
+| **Space Traveller** | Endless runner prototype focused on player feel. | [Link](https://github.com/Shreys1611/Space_Traveller) |
+| **Gesture Controlled Chess** | Accessibility project using OpenCV | [Link](https://github.com/Shreys1611/Gesture-Controlled-Chess) |
+| **Level Generator** | AI tool for procedural level layouts. | [Link](https://github.com/Shreys1611/Level-Generating-AI) |
 
 
 ---
