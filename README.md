@@ -40,7 +40,7 @@ Final-year **B.Tech CSE (Gaming Technology)** student at SRM Institute. I build 
 | **Climb High** | 3D vertical rage platformer. | [Link](https://github.com/Shreys1611/Climb_High) |
 | **Space Traveller** | Endless runner prototype focused on player feel. | [Link](https://github.com/Shreys1611/Space_Traveller) |
 | **Gesture Controlled Chess** | Accessibility project using OpenCV | [Link](https://github.com/Shreys1611/Gesture-Controlled-Chess) |
-| **Datastream VR** | VR Game for student to leanr dat flow. | [Link](https://github.com/Shreys1611/Datastream-VR) |
+| **Datastream VR** | VR game for students to learn  how data flows in a computer. | [Link](https://github.com/Shreys1611/Datastream-VR) |
 
 
 ---
