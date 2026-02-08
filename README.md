@@ -12,7 +12,7 @@
 
 ---
 
-## 📖 About Me
+## About Me
 Final-year **B.Tech CSE (Gaming Technology)** student at SRM Institute. I build gameplay systems, level design prototypes, and small standalone games — focusing on responsive controls, player feel, and AI-driven interactions.
 
 - Currently: Working on creating AI NPCs in UE5 projects.  
@@ -21,7 +21,7 @@ Final-year **B.Tech CSE (Gaming Technology)** student at SRM Institute. I build 
 
 ---
 
-## 🛠️ Tech stack
+## Tech stack
 <p align="center">
   <img src="Assets/unreal.png" alt="Unreal Engine" width="45" height="48" style="vertical-align:middle;"/>&nbsp;&nbsp;
   <img src="Assets/unity.png" alt="Unity" width="40" height="48" style="vertical-align:middle;"/>&nbsp;&nbsp;
@@ -34,7 +34,7 @@ Final-year **B.Tech CSE (Gaming Technology)** student at SRM Institute. I build 
 
 ---
 
-## ✨ Featured projects
+## Featured projects
 | Projects | About | Repos |
 | :--- | :--- | :--- |
 | **Climb High** | 3D vertical rage platformer. | [Link](https://github.com/Shreys1611/Climb_High) |
@@ -45,7 +45,7 @@ Final-year **B.Tech CSE (Gaming Technology)** student at SRM Institute. I build 
 
 ---
 
-## 📊 GitHub stats
+## GitHub stats
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=Shreys1611&show_icons=true&count_private=true&bg_color=0d1117&title_color=FF4444&icon_color=FF4444&text_color=ffffff&hide_border=true" 
@@ -68,7 +68,7 @@ Final-year **B.Tech CSE (Gaming Technology)** student at SRM Institute. I build 
 
 ---
 
-## 🔗 Find me
+## Find me
 <p align="center">
   <a href="https://www.linkedin.com/in/shrey-sharma-gameislife/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.behance.net/shreysharma-gamedev" target="_blank"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/></a>
