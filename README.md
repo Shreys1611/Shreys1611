@@ -13,11 +13,11 @@
 ---
 
 ## About Me
-Final-year **B.Tech CSE (Gaming Technology)** student at SRM Institute. I build gameplay systems, level design prototypes, and small standalone games — focusing on responsive controls, player feel, and AI-driven interactions.
+First-year **M.Sc Games (Technology Track)** student at IT University of Copenhagen. I build gameplay systems, level design prototypes, and small standalone games — focusing on responsive controls, player feel, and AI-driven interactions.
 
-- Currently: Working on creating AI NPCs in UE5 projects.  
-- Learning: Advanced rendering / optimization tricks and AI-driven level design.  
-- Email: **shreys1611@gmail.com** — open to internships & fresher roles.
+- Currently: Working on creating prototypes in Twine and Unity.  
+- Learning: Advanced optimization tricks and Game Engine programming.  
+- Email: **shreys1611@gmail.com** — open to internships & part-time roles.
 
 ---
 
