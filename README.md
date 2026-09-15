@@ -27,8 +27,6 @@ First-year **M.Sc Games (Technology Track)** student at IT University of Copenha
   <img src="Assets/unity.png" alt="Unity" width="40" height="48" style="vertical-align:middle;"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" alt="C++" style="vertical-align:middle;"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" alt="C#" style="vertical-align:middle;"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" alt="Python" style="vertical-align:middle;"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="48" alt="Blender" style="vertical-align:middle;"/>&nbsp;&nbsp;
   <img src="Assets/diversion.png" alt="Diversion" width="40" height="48" style="vertical-align:middle;"/>
 </p>
 
@@ -41,30 +39,6 @@ First-year **M.Sc Games (Technology Track)** student at IT University of Copenha
 | **Space Traveller** | Endless runner prototype focused on player feel. | [Link](https://github.com/Shreys1611/Space_Traveller) |
 | **Gesture Controlled Chess** | Accessibility project using OpenCV | [Link](https://github.com/Shreys1611/Gesture-Controlled-Chess) |
 | **Datastream VR** | VR game for students to learn  how data flows in a computer. | [Link](https://github.com/Shreys1611/Datastream-VR) |
-
-
----
-
-## GitHub stats
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Shreys1611&show_icons=true&count_private=true&bg_color=0d1117&title_color=FF4444&icon_color=FF4444&text_color=ffffff&hide_border=true" 
-       alt="Shrey's GitHub Stats" 
-       width="420" 
-       style="background-color:#0d1117; padding:6px; border:3px solid #FFFFFF; border-radius:12px; margin:10px;"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreys1611&layout=compact&bg_color=0d1117&title_color=FF4444&icon_color=FF4444&text_color=ffffff&hide_border=true" 
-       alt="Top Languages" 
-       width="320" 
-       style="background-color:#0d1117; padding:6px; border:3px solid #FFFFFF; border-radius:12px; margin:10px;"/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreys1611&hide_border=true&background=0d1117&stroke=FF4444&fire=FF4444&currStreakNum=FF4444&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff" 
-       alt="GitHub Streak Stats" 
-       width="420" 
-       style="background-color:#0d1117; padding:6px; border:3px solid #FFFFFF; border-radius:12px; margin:10px;"/>
-
-</div>
-
 
 ---
 
